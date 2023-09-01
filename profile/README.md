@@ -13,7 +13,8 @@ Join us on this exciting journey, explore our projects, and become a part of the
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
 ![GameDev](https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white)
 ![Github Wiki](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
-https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white
+[![TITLE](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](#)
+
 
 
 [![TITLE](image)](link)
