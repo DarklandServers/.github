@@ -7,3 +7,4 @@ Our small but dedicated crew invests their free time into creating unique gaming
 Join us on this exciting journey, explore our projects, and become a part of the Darkland Servers community. Together, we'll continue to push the boundaries of gaming innovation.
 
 -------------------------------------------
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
