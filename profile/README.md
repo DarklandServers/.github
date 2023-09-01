@@ -8,7 +8,6 @@ Join us on this exciting journey, explore our projects, and become a part of the
 
 -------------------------------------------
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/vD5vytdgwU)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/vD5vytdgwU)
 
 ![GameDev](https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white)
 ![Github Wiki](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
