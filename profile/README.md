@@ -8,6 +8,7 @@ Join us on this exciting journey, explore our projects, and become a part of the
 
 <br>
 <br>
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/vD5vytdgwU)
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/groups/DarklandServers)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
