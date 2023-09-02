@@ -13,6 +13,7 @@ Join us on this exciting journey, explore our projects, and become a part of the
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/groups/DarklandServers)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#)
 <br>
 <br>
 ![GameDev](https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white)
