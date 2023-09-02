@@ -18,7 +18,6 @@ Join us on this exciting journey, explore our projects, and become a part of the
 <br>
 ![GameDev](https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white)
 ![Github Wiki](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
-
 <br>
 <br>
 [![Paypal](https://img.shields.io/badge/PayPal-00457C.svg?style=for-the-badge&logo=PayPal&logoColor=white)](#)
