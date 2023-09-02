@@ -16,14 +16,14 @@ Join us on this exciting journey, explore our projects, and become a part of the
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#)&nbsp;
 <br>
 <br>
-![GameDev](https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white)
-![Github Wiki](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
+![GameDev](https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white)&nbsp;
+![Github Wiki](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)&nbsp;
 <br>
 <br>
-[![Paypal](https://img.shields.io/badge/PayPal-00457C.svg?style=for-the-badge&logo=PayPal&logoColor=white)](#)
-[![Patreon](https://img.shields.io/badge/Patreon-FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](#)
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](#)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)](#)
-[![Eth](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)](#)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C.svg?style=for-the-badge&logo=PayPal&logoColor=white)](#)&nbsp;
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](#)&nbsp;
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](#)&nbsp;
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)](#)&nbsp;
+[![Eth](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)](#)&nbsp;
 
 
