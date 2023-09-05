@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/NdCCUyQ.png)
+![Logo](https://i.imgur.com/u3JrtyQ.png)
 
 Welcome to Darkland Servers, a passionate team dedicated to crafting custom game modes for a variety of games including Garry's Mod, s&box, Minecraft, GTA, and more on the horizon.
 
