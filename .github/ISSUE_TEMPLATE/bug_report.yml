@@ -3,6 +3,19 @@ description: Create a report to help us improve
 title: "[Bug]: "
 labels: ["bug"]
 body:
+  - type: dropdown
+    id: server
+    attributes:
+      label: Server
+      description: What server did the bug occur on?
+      options:
+        - "Fortwars: Remastered"
+        - Zombie Survival
+        - Puzzles & Co-Op
+        - Extreme Football
+      default: 0
+    validations:
+      required: true
   - type: textarea
     id: describe
     attributes:
